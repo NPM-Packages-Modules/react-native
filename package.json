@@ -1,0 +1,44 @@
+{
+  "name": "@mr-aftab-ahmad-khan/react-native-monorepo",
+  "private": true,
+  "description": "React Native npm monorepo — mobile packages (@mr-aftab-ahmad-khan/*).",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "workspaces": [
+    "apidocsmith",
+    "apiflowx",
+    "authmesh",
+    "cachepilot",
+    "cronpilot",
+    "datamorph",
+    "deploysense",
+    "envsyncer",
+    "eventbridgex",
+    "logmesh",
+    "mongoforge",
+    "querygenie",
+    "retryflow",
+    "routeforge",
+    "schemashift",
+    "secureflow",
+    "servbridge",
+    "servqueue",
+    "socketmesh",
+    "stacktracex"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native#readme"
+}
