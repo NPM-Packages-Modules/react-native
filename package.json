@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/react-native-monorepo",
   "private": true,
-  "description": "React Native npm monorepo — mobile packages (@mr-aftab-ahmad-khan/*).",
+  "description": "React Native npm monorepo \u2014 mobile packages (@mr-aftab-ahmad-khan/*).",
   "license": "MIT",
   "engines": {
     "node": ">=18"
@@ -28,6 +28,10 @@
     "socketmesh",
     "stacktracex"
   ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
+  },
   "scripts": {
     "build": "npm run build --workspaces --if-present",
     "test": "npm run test --workspaces --if-present",
