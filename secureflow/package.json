@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
     "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
+    "merndev",
     "mobile",
-    "security",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "rate-limiting",
-    "xss",
-    "secureflow"
+    "react",
+    "react-native",
+    "secureflow",
+    "security",
+    "typescript",
+    "xss"
   ],
   "dependencies": {},
   "devDependencies": {

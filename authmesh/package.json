@@ -27,20 +27,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
     "auth",
+    "authmesh",
     "jwt",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "rbac",
+    "react",
+    "react-native",
     "session",
-    "authmesh"
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

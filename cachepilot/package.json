@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
     "cache",
-    "redis",
+    "cachepilot",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "performance",
-    "cachepilot"
+    "react",
+    "react-native",
+    "redis",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

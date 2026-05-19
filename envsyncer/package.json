@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
-    "env",
     "config",
-    "validation",
-    "envsyncer"
+    "env",
+    "envsyncer",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "react",
+    "react-native",
+    "typescript",
+    "validation"
   ],
   "dependencies": {},
   "devDependencies": {

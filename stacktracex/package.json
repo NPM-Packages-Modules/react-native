@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
-    "tracing",
-    "distributed",
     "debugging",
-    "stacktracex"
+    "distributed",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "react",
+    "react-native",
+    "stacktracex",
+    "tracing",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

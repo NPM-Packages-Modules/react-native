@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
+    "eventbridgex",
     "events",
-    "pubsub",
+    "mern-packages",
+    "merndev",
     "messaging",
-    "eventbridgex"
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "pubsub",
+    "react",
+    "react-native",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

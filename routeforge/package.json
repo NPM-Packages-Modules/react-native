@@ -27,20 +27,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
-    "scaffolding",
-    "crud",
-    "navigation",
     "cli",
-    "routeforge"
+    "crud",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "navigation",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "react",
+    "react-native",
+    "routeforge",
+    "scaffolding",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

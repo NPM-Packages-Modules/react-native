@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
-    "queue",
     "jobs",
-    "workers",
-    "servqueue"
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "queue",
+    "react",
+    "react-native",
+    "servqueue",
+    "typescript",
+    "workers"
   ],
   "dependencies": {},
   "devDependencies": {

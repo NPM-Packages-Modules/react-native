@@ -27,19 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
-    "observability",
-    "mern-packages",
-    "npm-pm",
-    "react-native",
-    "react",
-    "mobile",
     "logging",
+    "logmesh",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "react",
+    "react-native",
     "structured-logging",
     "tracing",
-    "logmesh"
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"
