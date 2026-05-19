@@ -1,5 +1,7 @@
 # servbridge
 
+**Topics:** `events` · `mern-packages` · `merndev` · `microservices` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `routing` · `servbridge` · `service-discovery` · `typescript`
+
 **React Native** library.
 
 Automatically connect multiple MERN services together with minimal setup.

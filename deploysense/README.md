@@ -1,5 +1,7 @@
 # deploysense
 
+**Topics:** `ci` · `deploy` · `deploysense` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `release` · `typescript`
+
 **React Native** library.
 
 Detect risky deployments before production release.

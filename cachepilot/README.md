@@ -1,5 +1,7 @@
 # cachepilot
 
+**Topics:** `cache` · `cachepilot` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `performance` · `react` · `react-native` · `redis` · `typescript`
+
 **React Native** library.
 
 Automatically cache APIs and database queries intelligently.

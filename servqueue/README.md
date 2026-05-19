@@ -1,5 +1,7 @@
 # servqueue
 
+**Topics:** `jobs` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `queue` · `react` · `react-native` · `servqueue` · `typescript` · `workers`
+
 **React Native** library.
 
 Simple distributed queue management for MERN applications.

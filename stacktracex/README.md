@@ -1,5 +1,7 @@
 # stacktracex
 
+**Topics:** `debugging` · `distributed` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `stacktracex` · `tracing` · `typescript`
+
 **React Native** library.
 
 Visual distributed tracing for MERN applications.

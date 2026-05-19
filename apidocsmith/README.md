@@ -1,5 +1,7 @@
 # apidocsmith
 
+**Topics:** `api-docs` · `apidocsmith` · `cli` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `openapi` · `react` · `react-native` · `swagger` · `typescript`
+
 **React Native** library.
 
 Generate beautiful API documentation automatically.

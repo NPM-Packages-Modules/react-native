@@ -1,5 +1,7 @@
 # schemashift
 
+**Topics:** `cli` · `mern-packages` · `merndev` · `migration` · `mobile` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `schema` · `schemashift` · `typescript`
+
 **React Native** library.
 
 Automatically generate MongoDB schema migrations.

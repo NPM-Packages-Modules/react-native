@@ -1,5 +1,7 @@
 # authmesh
 
+**Topics:** `auth` · `authmesh` · `jwt` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `rbac` · `react` · `react-native` · `session` · `typescript`
+
 **React Native** library.
 
 Create centralized authentication systems across MERN services.

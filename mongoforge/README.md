@@ -1,5 +1,7 @@
 # mongoforge
 
+**Topics:** `index` · `mern-packages` · `merndev` · `mobile` · `mongodb` · `mongoforge` · `nodejs` · `npm-pm` · `observability` · `performance` · `react` · `react-native` · `typescript`
+
 **React Native** library.
 
 Automatically optimize MongoDB indexing strategies.

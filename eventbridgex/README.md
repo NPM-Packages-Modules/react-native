@@ -1,5 +1,7 @@
 # eventbridgex
 
+**Topics:** `eventbridgex` · `events` · `mern-packages` · `merndev` · `messaging` · `mobile` · `nodejs` · `npm-pm` · `observability` · `pubsub` · `react` · `react-native` · `typescript`
+
 **React Native** library.
 
 Unified event-driven communication layer for MERN services.

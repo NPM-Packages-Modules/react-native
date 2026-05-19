@@ -1,0 +1,17 @@
+{
+  "topics": [
+    "config",
+    "env",
+    "envsyncer",
+    "mern-packages",
+    "merndev",
+    "mobile",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "react",
+    "react-native",
+    "typescript",
+    "validation"
+  ]
+}

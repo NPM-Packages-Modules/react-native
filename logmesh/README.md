@@ -1,5 +1,7 @@
 # logmesh
 
+**Topics:** `logging` · `logmesh` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `structured-logging` · `tracing` · `typescript`
+
 **React Native** library.
 
 Centralized structured logging for MERN systems.

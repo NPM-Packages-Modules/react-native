@@ -1,5 +1,7 @@
 # querygenie
 
+**Topics:** `mern-packages` · `merndev` · `mobile` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `pagination` · `query` · `querygenie` · `react` · `react-native` · `search` · `typescript`
+
 **React Native** library.
 
 Generate advanced MongoDB queries automatically.

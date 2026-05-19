@@ -1,5 +1,7 @@
 # socketmesh
 
+**Topics:** `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `realtime` · `socket` · `socketmesh` · `typescript` · `websocket`
+
 **React Native** library.
 
 Simplify scalable real-time communication infrastructure.

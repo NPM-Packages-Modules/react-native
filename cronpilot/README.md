@@ -1,5 +1,7 @@
 # cronpilot
 
+**Topics:** `cron` · `cronpilot` · `jobs` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `scheduler` · `typescript`
+
 **React Native** library.
 
 Manage distributed cron jobs safely across servers.

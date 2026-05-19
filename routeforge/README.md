@@ -1,5 +1,7 @@
 # routeforge
 
+**Topics:** `cli` · `crud` · `mern-packages` · `merndev` · `mobile` · `navigation` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `routeforge` · `scaffolding` · `typescript`
+
 **React Native** library.
 
 Generate complete Express CRUD modules automatically.
